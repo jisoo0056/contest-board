@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T13:48+09:00",
+ "updated": "2026-11-25T18:33+09:00",
  "contests": [
   {
    "source": "링커리어",
@@ -3521,6 +3521,12 @@
    "fields": [
     "문화기획"
    ],
+   "also": [
+    {
+     "source": "위비티",
+     "url": "https://www.wevity.com/?c=find&s=1&gub=1&gbn=view&ix=112553"
+    }
+   ],
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
@@ -5631,8 +5637,7 @@
    "source_id": "contestkorea",
    "targets": [
     "대학생",
-    "일반인",
-    "청소년"
+    "일반인"
    ],
    "team": "개인·팀",
    "start": "2026-11-09",
@@ -5730,9 +5735,7 @@
    "source": "콘테스트코리아",
    "source_id": "contestkorea",
    "targets": [
-    "대학생",
-    "일반인",
-    "청소년"
+    "대학생"
    ],
    "team": null,
    "start": "2026-11-18",
@@ -5859,10 +5862,7 @@
   {
    "source": "콘테스트코리아",
    "source_id": "contestkorea",
-   "targets": [
-    "일반인",
-    "청소년"
-   ],
+   "targets": [],
    "team": null,
    "start": "2026-11-23",
    "deadline": "2026-12-31",
@@ -6556,6 +6556,258 @@
    ],
    "first_seen": "2026-11-25",
    "initial": true,
+   "detail_checked": false,
+   "last_seen": "2026-11-25",
+   "state": "open"
+  },
+  {
+   "source": "링커리어",
+   "source_id": "linkareer",
+   "targets": [
+    "일반인"
+   ],
+   "team": null,
+   "start": "2026-11-20",
+   "deadline": "2026-12-13",
+   "reward": "총 10만원",
+   "org": "한국세라믹기술원",
+   "status_hint": null,
+   "id": "linkareer-367039",
+   "title": "한국세라믹기술원 대국민 안전제안 공모전",
+   "url": "https://linkareer.com/activity/367039",
+   "org_type": "비영리단체/협회/재단",
+   "form": "아이디어 제안",
+   "kind": "공모전",
+   "categories": "기획/아이디어",
+   "interests": "콘텐츠",
+   "parser": "linkareer",
+   "fields": [
+    "공공문제·정책제안"
+   ],
+   "also": [
+    {
+     "source": "위비티",
+     "url": "https://www.wevity.com/?c=find&s=1&gub=1&gbn=view&ix=112451"
+    }
+   ],
+   "first_seen": "2026-11-25",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-25",
+   "state": "open"
+  },
+  {
+   "source": "링커리어",
+   "source_id": "linkareer",
+   "targets": [
+    "일반인"
+   ],
+   "team": "개인·팀",
+   "start": "2026-11-24",
+   "deadline": "2026-12-09",
+   "reward": "총 3,000만원",
+   "org": "대구광역시 남구청, 계명대학교 창업지원단",
+   "status_hint": null,
+   "id": "linkareer-367037",
+   "title": "대구광역시 남구 AI 행정혁신 경진대회",
+   "url": "https://linkareer.com/activity/367037",
+   "org_type": "비영리단체/협회/재단",
+   "form": "기획서",
+   "kind": "공모전",
+   "categories": "기획/아이디어",
+   "interests": "콘텐츠",
+   "parser": "linkareer",
+   "fields": [
+    "공공문제·정책제안"
+   ],
+   "first_seen": "2026-11-25",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-25",
+   "state": "open"
+  },
+  {
+   "source": "링커리어",
+   "source_id": "linkareer",
+   "targets": [
+    "대학생",
+    "일반인"
+   ],
+   "team": "팀",
+   "start": "2026-11-25",
+   "deadline": "2026-12-27",
+   "reward": "총 300만원",
+   "org": "더컴퍼니씨 협동조합(The Company C)",
+   "status_hint": null,
+   "id": "linkareer-366955",
+   "title": "「2026 지역밀착형 사회문제 해결지원 프로젝트」",
+   "url": "https://linkareer.com/activity/366955",
+   "org_type": "중소기업",
+   "form": "아이디어 제안",
+   "kind": "공모전",
+   "categories": "기획/아이디어",
+   "interests": "사회공헌/교류",
+   "parser": "linkareer",
+   "fields": [
+    "공공문제·정책제안"
+   ],
+   "also": [
+    {
+     "source": "위비티",
+     "url": "https://www.wevity.com/?c=find&s=1&gub=1&gbn=view&ix=112569"
+    }
+   ],
+   "first_seen": "2026-11-25",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-25",
+   "state": "open"
+  },
+  {
+   "source": "링커리어",
+   "source_id": "linkareer",
+   "targets": [
+    "대학생",
+    "일반인"
+   ],
+   "team": "개인",
+   "start": "2026-11-23",
+   "deadline": "2026-11-29",
+   "reward": null,
+   "org": "경북ICT융합산업진흥협회",
+   "status_hint": null,
+   "id": "linkareer-366440",
+   "title": "2026년 포항시 푸드테크 인사이트투어 SNS홍보단 모집",
+   "url": "https://linkareer.com/activity/366440",
+   "org_type": "비영리단체/협회/재단",
+   "form": "서포터즈",
+   "kind": "대외활동",
+   "categories": "서포터즈 체험단",
+   "interests": "행사/페스티벌 요리/식품",
+   "parser": "linkareer",
+   "fields": [
+    "브랜드·마케팅"
+   ],
+   "first_seen": "2026-11-25",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-25",
+   "state": "open"
+  },
+  {
+   "source": "콘테스트코리아",
+   "source_id": "contestkorea",
+   "targets": [
+    "대학생",
+    "일반인",
+    "청소년"
+   ],
+   "team": "개인·팀",
+   "start": "2026-11-24",
+   "deadline": "2026-12-09",
+   "reward": "기타 :선정된 개인(팀)당 3,000만원 상당의 사업화 자금 지원",
+   "org": "대구광역시 남구청, 계명대학교 창업지원단",
+   "status_hint": "open",
+   "id": "ck-202611240040",
+   "title": "[대구광역시 남구] AI 행정혁신 경진대회",
+   "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202611240040",
+   "form": "기획서",
+   "categories": "아이디어•건축•창업",
+   "kind": "공모전",
+   "posted": "2026-11-24",
+   "parser": "contestkorea",
+   "fields": [
+    "공공문제·정책제안"
+   ],
+   "first_seen": "2026-11-25",
+   "initial": false,
+   "detail_checked": true,
+   "last_seen": "2026-11-25",
+   "state": "open"
+  },
+  {
+   "source": "콘테스트코리아",
+   "source_id": "contestkorea",
+   "targets": [
+    "대학생",
+    "일반인",
+    "청소년"
+   ],
+   "team": "개인·팀",
+   "start": "2026-11-17",
+   "deadline": "2026-12-06",
+   "reward": null,
+   "org": "롯데관광",
+   "status_hint": "open",
+   "id": "ck-202611180029",
+   "title": "롯데관광 크루즈 앰버서더 2기 모집",
+   "url": "https://www.contestkorea.com/sub/view.php?int_gbn=2&Txt_bcode=040710001&str_no=202611180029",
+   "form": "대외활동",
+   "categories": "기획 • 홍보 • 마케팅",
+   "kind": "대외활동",
+   "posted": "2026-11-18",
+   "parser": "contestkorea",
+   "fields": [
+    "문화기획"
+   ],
+   "first_seen": "2026-11-25",
+   "initial": false,
+   "detail_checked": true,
+   "last_seen": "2026-11-25",
+   "state": "open"
+  },
+  {
+   "source": "위비티",
+   "source_id": "wevity",
+   "targets": [
+    "일반인",
+    "대학생"
+   ],
+   "team": null,
+   "start": null,
+   "deadline": "2026-12-25",
+   "reward": null,
+   "org": "용인시처인장애인복지관",
+   "status_hint": "open",
+   "id": "wevity-112571",
+   "title": "2027년 용인시처인장애인복지관 홍보서포터즈 7기 모집",
+   "url": "https://www.wevity.com/?c=find&s=1&gub=1&gbn=view&ix=112571",
+   "form": "서포터즈",
+   "categories": "대외활동/서포터즈",
+   "kind": "대외활동",
+   "parser": "wevity",
+   "fields": [
+    "브랜드·마케팅",
+    "공공문제·정책제안"
+   ],
+   "first_seen": "2026-11-25",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-25",
+   "state": "open"
+  },
+  {
+   "source": "위비티",
+   "source_id": "wevity",
+   "targets": [],
+   "team": null,
+   "start": null,
+   "deadline": "2026-12-18",
+   "reward": null,
+   "org": "영남대학교 앵커사업단 YUnicorn 창업지원단",
+   "status_hint": "open",
+   "id": "wevity-112503",
+   "title": "2026 YUnicorn 지역문제발굴 및 해결사례 공모전",
+   "url": "https://www.wevity.com/?c=find&s=1&gub=1&gbn=view&ix=112503",
+   "form": null,
+   "categories": "기타",
+   "kind": "공모전",
+   "parser": "wevity",
+   "fields": [
+    "공공문제·정책제안"
+   ],
+   "first_seen": "2026-11-25",
+   "initial": false,
    "detail_checked": false,
    "last_seen": "2026-11-25",
    "state": "open"
