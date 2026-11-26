@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-25T18:33+09:00",
+ "updated": "2026-11-26T12:01+09:00",
  "sources": {
   "linkareer": {
    "ok": true,
-   "count": 857
+   "count": 844
   },
   "contestkorea": {
    "ok": true,
@@ -11,7 +11,7 @@
   },
   "wevity": {
    "ok": true,
-   "count": 330
+   "count": 331
   },
   "mcst": {
    "ok": true,

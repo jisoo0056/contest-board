@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T18:33+09:00",
+ "updated": "2026-11-26T12:01+09:00",
  "contests": [
   {
    "source": "링커리어",
@@ -30,7 +30,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -61,12 +61,16 @@
     {
      "source": "콘테스트코리아",
      "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202611200017"
+    },
+    {
+     "source": "위비티",
+     "url": "https://www.wevity.com/?c=find&s=1&gub=1&gbn=view&ix=112519"
     }
    ],
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -102,7 +106,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -146,7 +150,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -178,7 +182,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -208,7 +212,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -244,7 +248,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -276,7 +280,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -306,7 +310,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -344,7 +348,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -387,7 +391,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -417,7 +421,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -447,7 +451,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -478,7 +482,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -515,7 +519,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -546,7 +550,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -576,7 +580,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "upcoming"
   },
   {
@@ -606,7 +610,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -636,7 +640,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -666,7 +670,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -697,7 +701,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -733,7 +737,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -769,7 +773,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -811,7 +815,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -849,7 +853,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -893,7 +897,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -930,7 +934,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -961,7 +965,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -991,7 +995,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -1021,7 +1025,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -1051,7 +1055,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -1083,7 +1087,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -1113,7 +1117,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -1150,7 +1154,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -1188,7 +1192,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -1218,7 +1222,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -1248,7 +1252,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -1284,7 +1288,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -1328,7 +1332,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -1358,7 +1362,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -1388,7 +1392,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -1418,7 +1422,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -1448,7 +1452,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -1478,7 +1482,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -1508,7 +1512,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -1545,7 +1549,7 @@
    "initial": true,
    "detail_checked": false,
    "last_seen": "2026-11-25",
-   "state": "open"
+   "state": "closed"
   },
   {
    "source": "링커리어",
@@ -1587,7 +1591,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -1623,7 +1627,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -1660,7 +1664,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -1700,7 +1704,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -1730,7 +1734,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -1762,7 +1766,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -1792,7 +1796,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -1829,7 +1833,7 @@
    "initial": true,
    "detail_checked": false,
    "last_seen": "2026-11-25",
-   "state": "open"
+   "state": "closed"
   },
   {
    "source": "링커리어",
@@ -1866,7 +1870,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -1904,7 +1908,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -1934,7 +1938,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -1970,7 +1974,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "upcoming"
   },
   {
@@ -2002,7 +2006,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -2032,7 +2036,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -2068,7 +2072,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -2107,7 +2111,7 @@
    "initial": true,
    "detail_checked": false,
    "last_seen": "2026-11-25",
-   "state": "open"
+   "state": "closed"
   },
   {
    "source": "링커리어",
@@ -2149,7 +2153,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -2191,7 +2195,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -2223,7 +2227,7 @@
    "initial": true,
    "detail_checked": false,
    "last_seen": "2026-11-25",
-   "state": "open"
+   "state": "closed"
   },
   {
    "source": "링커리어",
@@ -2253,7 +2257,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -2283,7 +2287,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -2319,7 +2323,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -2360,7 +2364,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -2390,7 +2394,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -2428,7 +2432,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -2458,7 +2462,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -2488,7 +2492,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -2530,7 +2534,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -2561,7 +2565,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -2591,7 +2595,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -2622,7 +2626,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -2662,7 +2666,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -2692,7 +2696,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -2723,7 +2727,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -2755,7 +2759,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -2792,7 +2796,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -2834,7 +2838,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -2864,7 +2868,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -2906,7 +2910,7 @@
    "initial": true,
    "detail_checked": false,
    "last_seen": "2026-11-25",
-   "state": "open"
+   "state": "closed"
   },
   {
    "source": "링커리어",
@@ -2947,7 +2951,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -2977,7 +2981,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -3010,16 +3014,12 @@
     {
      "source": "콘테스트코리아",
      "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202610140022"
-    },
-    {
-     "source": "위비티",
-     "url": "https://www.wevity.com/?c=find&s=1&gub=1&gbn=view&ix=111574"
     }
    ],
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -3050,7 +3050,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -3081,7 +3081,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -3111,7 +3111,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -3142,7 +3142,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -3172,7 +3172,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -3209,7 +3209,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -3245,7 +3245,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "upcoming"
   },
   {
@@ -3276,7 +3276,7 @@
    "initial": true,
    "detail_checked": false,
    "last_seen": "2026-11-25",
-   "state": "open"
+   "state": "closed"
   },
   {
    "source": "링커리어",
@@ -3305,7 +3305,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -3336,7 +3336,7 @@
    "initial": true,
    "detail_checked": false,
    "last_seen": "2026-11-25",
-   "state": "open"
+   "state": "closed"
   },
   {
    "source": "링커리어",
@@ -3365,7 +3365,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -3396,7 +3396,7 @@
    "initial": true,
    "detail_checked": false,
    "last_seen": "2026-11-25",
-   "state": "open"
+   "state": "closed"
   },
   {
    "source": "링커리어",
@@ -3426,7 +3426,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -3456,7 +3456,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -3494,7 +3494,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -3530,7 +3530,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -3560,7 +3560,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -3591,7 +3591,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -3622,7 +3622,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -3652,7 +3652,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -3688,7 +3688,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -3718,7 +3718,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -3756,7 +3756,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -3794,7 +3794,7 @@
    "initial": true,
    "detail_checked": false,
    "last_seen": "2026-11-25",
-   "state": "open"
+   "state": "closed"
   },
   {
    "source": "링커리어",
@@ -3830,7 +3830,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -3876,7 +3876,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -3906,7 +3906,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -3937,7 +3937,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -3968,7 +3968,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -3998,7 +3998,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -4028,7 +4028,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -4058,7 +4058,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -4089,7 +4089,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -4120,7 +4120,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -4150,7 +4150,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -4180,7 +4180,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -4210,7 +4210,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -4248,7 +4248,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -4278,7 +4278,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -4308,7 +4308,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -4345,7 +4345,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -4375,7 +4375,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -4405,7 +4405,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -4437,7 +4437,7 @@
    "initial": true,
    "detail_checked": false,
    "last_seen": "2026-11-25",
-   "state": "open"
+   "state": "closed"
   },
   {
    "source": "링커리어",
@@ -4467,7 +4467,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -4505,7 +4505,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -4535,7 +4535,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -4573,7 +4573,7 @@
    "initial": true,
    "detail_checked": false,
    "last_seen": "2026-11-25",
-   "state": "open"
+   "state": "closed"
   },
   {
    "source": "링커리어",
@@ -4602,7 +4602,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -4640,7 +4640,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -4670,7 +4670,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "upcoming"
   },
   {
@@ -4700,7 +4700,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -4741,7 +4741,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -4772,7 +4772,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -4810,7 +4810,7 @@
    "initial": true,
    "detail_checked": false,
    "last_seen": "2026-11-25",
-   "state": "open"
+   "state": "closed"
   },
   {
    "source": "링커리어",
@@ -4846,7 +4846,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -4877,7 +4877,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -4908,7 +4908,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -4950,7 +4950,7 @@
    "initial": true,
    "detail_checked": false,
    "last_seen": "2026-11-25",
-   "state": "open"
+   "state": "closed"
   },
   {
    "source": "링커리어",
@@ -4980,7 +4980,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -5010,7 +5010,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -5041,7 +5041,7 @@
    "initial": true,
    "detail_checked": false,
    "last_seen": "2026-11-25",
-   "state": "open"
+   "state": "closed"
   },
   {
    "source": "링커리어",
@@ -5070,7 +5070,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -5100,7 +5100,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -5136,7 +5136,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -5178,7 +5178,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -5209,7 +5209,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -5240,7 +5240,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -5272,7 +5272,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -5303,7 +5303,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -5334,7 +5334,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -5364,7 +5364,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -5396,7 +5396,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -5427,7 +5427,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -5459,7 +5459,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -5490,7 +5490,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -5529,7 +5529,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -5559,7 +5559,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -5598,7 +5598,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -5629,7 +5629,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -5644,7 +5644,7 @@
    "deadline": "2026-11-25",
    "reward": "상금(총상금 : 650만원 / 1위 : 300만원)",
    "org": "경북ICT융합산업진흥협회",
-   "status_hint": "open",
+   "status_hint": "closed",
    "id": "ck-202611160023",
    "title": "2026 포항시 AI 솔루션 아이디어 대회",
    "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202611160023",
@@ -5659,8 +5659,8 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": true,
-   "last_seen": "2026-11-25",
-   "state": "open"
+   "last_seen": "2026-11-26",
+   "state": "closed"
   },
   {
    "source": "콘테스트코리아",
@@ -5696,7 +5696,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": true,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -5728,7 +5728,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": true,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -5757,7 +5757,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": true,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -5773,7 +5773,7 @@
    "deadline": "2026-11-25",
    "reward": null,
    "org": "경기문화재단",
-   "status_hint": "open",
+   "status_hint": "closed",
    "id": "ck-202611050036",
    "title": "2026 제3회 경기 대학생 뮤지컬 페스티벌(GUMF) 경기도민 서포터즈 모집",
    "url": "https://www.contestkorea.com/sub/view.php?int_gbn=2&Txt_bcode=040110001&str_no=202611050036",
@@ -5788,8 +5788,8 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": true,
-   "last_seen": "2026-11-25",
-   "state": "open"
+   "last_seen": "2026-11-26",
+   "state": "closed"
   },
   {
    "source": "콘테스트코리아",
@@ -5819,7 +5819,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": true,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -5856,7 +5856,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": true,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -5883,7 +5883,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": true,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -5911,7 +5911,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -5939,7 +5939,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -5967,7 +5967,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -6023,7 +6023,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -6051,7 +6051,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -6079,7 +6079,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -6107,7 +6107,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -6135,7 +6135,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -6163,7 +6163,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -6191,7 +6191,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -6219,7 +6219,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -6248,7 +6248,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -6274,7 +6274,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -6300,7 +6300,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -6326,7 +6326,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -6354,7 +6354,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -6368,7 +6368,7 @@
    "deadline": "2026-11-25",
    "reward": null,
    "org": "남이섬교육문화그룹",
-   "status_hint": "open",
+   "status_hint": "closed",
    "id": "wevity-112301",
    "title": "2027 남이섬세계책나라축제 대학생 홍보 서포터즈 모집 (아임나미)",
    "url": "https://www.wevity.com/?c=find&s=1&gub=1&gbn=view&ix=112301",
@@ -6383,8 +6383,8 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
-   "state": "open"
+   "last_seen": "2026-11-26",
+   "state": "closed"
   },
   {
    "source": "위비티",
@@ -6413,7 +6413,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -6442,7 +6442,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -6471,7 +6471,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -6499,7 +6499,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -6528,7 +6528,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -6557,7 +6557,7 @@
    "first_seen": "2026-11-25",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -6593,7 +6593,7 @@
    "first_seen": "2026-11-25",
    "initial": false,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -6623,7 +6623,7 @@
    "first_seen": "2026-11-25",
    "initial": false,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -6660,7 +6660,7 @@
    "first_seen": "2026-11-25",
    "initial": false,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -6691,7 +6691,7 @@
    "first_seen": "2026-11-25",
    "initial": false,
    "detail_checked": false,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -6699,8 +6699,7 @@
    "source_id": "contestkorea",
    "targets": [
     "대학생",
-    "일반인",
-    "청소년"
+    "일반인"
    ],
    "team": "개인·팀",
    "start": "2026-11-24",
@@ -6722,7 +6721,7 @@
    "first_seen": "2026-11-25",
    "initial": false,
    "detail_checked": true,
-   "last_seen": "2026-11-25",
+   "last_seen": "2026-11-26",
    "state": "open"
   },
   {
@@ -6810,6 +6809,390 @@
    "initial": false,
    "detail_checked": false,
    "last_seen": "2026-11-25",
+   "state": "open"
+  },
+  {
+   "source": "링커리어",
+   "source_id": "linkareer",
+   "targets": [
+    "일반인"
+   ],
+   "team": null,
+   "start": "2026-11-23",
+   "deadline": "2026-12-15",
+   "reward": "총 170만원",
+   "org": "숏만연구소",
+   "status_hint": null,
+   "id": "linkareer-367212",
+   "title": "숏만연구소X칼로데이터 AI 제품광고 공모전",
+   "url": "https://linkareer.com/activity/367212",
+   "org_type": "중소기업",
+   "form": "결과물",
+   "kind": "공모전",
+   "categories": "기획/아이디어 사진/영상/UCC",
+   "interests": "콘텐츠",
+   "parser": "linkareer",
+   "fields": [
+    "브랜드·마케팅"
+   ],
+   "also": [
+    {
+     "source": "링커리어",
+     "url": "https://linkareer.com/activity/366884"
+    }
+   ],
+   "first_seen": "2026-11-26",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-26",
+   "state": "open"
+  },
+  {
+   "source": "링커리어",
+   "source_id": "linkareer",
+   "targets": [
+    "일반인"
+   ],
+   "team": null,
+   "start": "2026-11-26",
+   "deadline": "2026-12-06",
+   "reward": null,
+   "org": "한국식품산업클러스터진흥원",
+   "status_hint": null,
+   "id": "linkareer-367204",
+   "title": "식품진흥원 영문 명칭 대국민 공모전",
+   "url": "https://linkareer.com/activity/367204",
+   "org_type": "비영리단체/협회/재단",
+   "form": "아이디어 제안",
+   "kind": "공모전",
+   "categories": "기획/아이디어 네이밍/슬로건",
+   "interests": "콘텐츠",
+   "parser": "linkareer",
+   "fields": [
+    "브랜드·마케팅",
+    "공공문제·정책제안"
+   ],
+   "first_seen": "2026-11-26",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-26",
+   "state": "open"
+  },
+  {
+   "source": "링커리어",
+   "source_id": "linkareer",
+   "targets": [
+    "대학생"
+   ],
+   "team": null,
+   "start": "2026-11-26",
+   "deadline": "2026-12-18",
+   "reward": "총 220만원",
+   "org": "더컴퍼니씨 협동조합(The Company C)",
+   "status_hint": null,
+   "id": "linkareer-367143",
+   "title": "2026 YUnicorn 지역문제발굴 및 해결사례 공모전",
+   "url": "https://linkareer.com/activity/367143",
+   "org_type": "중소기업",
+   "form": null,
+   "kind": "공모전",
+   "categories": "창업 기타",
+   "interests": "창업/자기계발 사회공헌/교류",
+   "parser": "linkareer",
+   "fields": [
+    "공공문제·정책제안"
+   ],
+   "also": [
+    {
+     "source": "위비티",
+     "url": "https://www.wevity.com/?c=find&s=1&gub=1&gbn=view&ix=112503"
+    }
+   ],
+   "first_seen": "2026-11-26",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-26",
+   "state": "open"
+  },
+  {
+   "source": "링커리어",
+   "source_id": "linkareer",
+   "targets": [
+    "일반인"
+   ],
+   "team": null,
+   "start": "2026-11-25",
+   "deadline": "2026-12-06",
+   "reward": "총 500만원",
+   "org": "한국수자원공사",
+   "status_hint": null,
+   "id": "linkareer-367086",
+   "title": "2026 제5회 대국민 K-water AI 경진대회",
+   "url": "https://linkareer.com/activity/367086",
+   "org_type": "공공기관/공기업",
+   "form": "기획서",
+   "kind": "공모전",
+   "categories": "과학/공학",
+   "interests": "과학/공학/기술/IT",
+   "parser": "linkareer",
+   "fields": [
+    "공공문제·정책제안"
+   ],
+   "first_seen": "2026-11-26",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-26",
+   "state": "open"
+  },
+  {
+   "source": "링커리어",
+   "source_id": "linkareer",
+   "targets": [
+    "일반인"
+   ],
+   "team": null,
+   "start": "2026-11-25",
+   "deadline": "2026-12-10",
+   "reward": "총 90만원",
+   "org": "국토안전관리원",
+   "status_hint": null,
+   "id": "linkareer-367085",
+   "title": "AI·공공데이터·정보공개 대국민 혁신 아이디어 공모전",
+   "url": "https://linkareer.com/activity/367085",
+   "org_type": "공공기관/공기업",
+   "form": "아이디어 제안",
+   "kind": "공모전",
+   "categories": "기획/아이디어",
+   "interests": "과학/공학/기술/IT 사회공헌/교류",
+   "parser": "linkareer",
+   "fields": [
+    "공공문제·정책제안"
+   ],
+   "first_seen": "2026-11-26",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-26",
+   "state": "open"
+  },
+  {
+   "source": "링커리어",
+   "source_id": "linkareer",
+   "targets": [
+    "대학생"
+   ],
+   "team": "개인",
+   "start": "2026-11-25",
+   "deadline": "2026-12-07",
+   "reward": null,
+   "org": "정보통신정책연구원",
+   "status_hint": null,
+   "id": "linkareer-367147",
+   "title": "정보통신정책연구원 대학생 홍보단 '키플크루' 3기 모집 공고",
+   "url": "https://linkareer.com/activity/367147",
+   "org_type": "공공기관/공기업",
+   "form": "서포터즈",
+   "kind": "대외활동",
+   "categories": "서포터즈",
+   "interests": "과학/공학/기술/IT 콘텐츠",
+   "parser": "linkareer",
+   "fields": [
+    "브랜드·마케팅",
+    "공공문제·정책제안"
+   ],
+   "first_seen": "2026-11-26",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-26",
+   "state": "open"
+  },
+  {
+   "source": "링커리어",
+   "source_id": "linkareer",
+   "targets": [
+    "대학생",
+    "일반인"
+   ],
+   "team": "개인·팀",
+   "start": "2026-11-25",
+   "deadline": "2026-12-06",
+   "reward": null,
+   "org": "롯데관광",
+   "status_hint": null,
+   "id": "linkareer-367092",
+   "title": "롯데관광 크루즈 앰버서더 2기 모집",
+   "url": "https://linkareer.com/activity/367092",
+   "org_type": "대기업",
+   "form": "서포터즈",
+   "kind": "대외활동",
+   "categories": "서포터즈",
+   "interests": "여행/호텔/항공",
+   "parser": "linkareer",
+   "fields": [
+    "문화기획"
+   ],
+   "also": [
+    {
+     "source": "콘테스트코리아",
+     "url": "https://www.contestkorea.com/sub/view.php?int_gbn=2&Txt_bcode=040710001&str_no=202611180029"
+    }
+   ],
+   "first_seen": "2026-11-26",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-26",
+   "state": "open"
+  },
+  {
+   "source": "링커리어",
+   "source_id": "linkareer",
+   "targets": [
+    "대학생",
+    "일반인"
+   ],
+   "team": "개인",
+   "start": "2026-11-25",
+   "deadline": "2026-12-25",
+   "reward": null,
+   "org": "용인시처인장애인복지관",
+   "status_hint": null,
+   "id": "linkareer-367084",
+   "title": "2027년 용인시처인장애인복지관 홍보서포터즈 7기 모집",
+   "url": "https://linkareer.com/activity/367084",
+   "org_type": "비영리단체/협회/재단",
+   "form": "서포터즈",
+   "kind": "대외활동",
+   "categories": "서포터즈 기자단",
+   "interests": "콘텐츠 사회공헌/교류",
+   "parser": "linkareer",
+   "fields": [
+    "브랜드·마케팅",
+    "공공문제·정책제안"
+   ],
+   "also": [
+    {
+     "source": "위비티",
+     "url": "https://www.wevity.com/?c=find&s=1&gub=1&gbn=view&ix=112571"
+    }
+   ],
+   "first_seen": "2026-11-26",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-26",
+   "state": "open"
+  },
+  {
+   "source": "링커리어",
+   "source_id": "linkareer",
+   "targets": [
+    "대학생"
+   ],
+   "team": null,
+   "start": "2026-11-16",
+   "deadline": "2027-02-28",
+   "reward": null,
+   "org": "에프알엘코리아 주식회사",
+   "status_hint": null,
+   "id": "linkareer-366959",
+   "title": "[UNIQLO] GLOBAL MANAGEMENT PROGRAM 2027",
+   "url": "https://linkareer.com/activity/366959",
+   "org_type": "대기업",
+   "form": "대외활동",
+   "kind": "대외활동",
+   "categories": "해외탐방-무료 기타",
+   "interests": "경영/컨설팅/마케팅 사회공헌/교류",
+   "parser": "linkareer",
+   "fields": [
+    "브랜드·마케팅"
+   ],
+   "first_seen": "2026-11-26",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-26",
+   "state": "open"
+  },
+  {
+   "source": "링커리어",
+   "source_id": "linkareer",
+   "targets": [
+    "대학생",
+    "청소년"
+   ],
+   "team": "개인",
+   "start": "2026-11-25",
+   "deadline": "2026-11-27",
+   "reward": null,
+   "org": "홈스테이코리아",
+   "status_hint": null,
+   "id": "linkareer-366954",
+   "title": "[한일 문화교류] 12/3 일본 고등학생에게 한국을 소개할 대학생 버디 모집",
+   "url": "https://linkareer.com/activity/366954",
+   "org_type": "중소기업",
+   "form": "서포터즈",
+   "kind": "대외활동",
+   "categories": "서포터즈 기타",
+   "interests": "문화/역사 사회공헌/교류",
+   "parser": "linkareer",
+   "fields": [
+    "문화기획"
+   ],
+   "first_seen": "2026-11-26",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-26",
+   "state": "open"
+  },
+  {
+   "source": "위비티",
+   "source_id": "wevity",
+   "targets": [
+    "일반인"
+   ],
+   "team": null,
+   "start": null,
+   "deadline": "2026-11-30",
+   "reward": null,
+   "org": "한전KPS",
+   "status_hint": "open",
+   "id": "wevity-112516",
+   "title": "2026 한전KPS 국민안전제안 공모",
+   "url": "https://www.wevity.com/?c=find&s=1&gub=1&gbn=view&ix=112516",
+   "form": "아이디어 제안",
+   "categories": "기획/아이디어",
+   "kind": "공모전",
+   "parser": "wevity",
+   "fields": [
+    "공공문제·정책제안"
+   ],
+   "first_seen": "2026-11-26",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-26",
+   "state": "open"
+  },
+  {
+   "source": "위비티",
+   "source_id": "wevity",
+   "targets": [],
+   "team": null,
+   "start": null,
+   "deadline": "2026-11-29",
+   "reward": null,
+   "org": "은평구시설관리공단",
+   "status_hint": "open",
+   "id": "wevity-112506",
+   "title": "은평구시설관리공단 2026년 고객 혁신 아이디어 공모전",
+   "url": "https://www.wevity.com/?c=find&s=1&gub=1&gbn=view&ix=112506",
+   "form": "아이디어 제안",
+   "categories": "기획/아이디어",
+   "kind": "공모전",
+   "parser": "wevity",
+   "fields": [
+    "공공문제·정책제안"
+   ],
+   "first_seen": "2026-11-26",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-26",
    "state": "open"
   }
  ]
