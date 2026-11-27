@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T12:11+09:00",
+ "updated": "2026-11-27T13:31+09:00",
  "contests": [
   {
    "source": "링커리어",
@@ -1798,12 +1798,6 @@
    "parser": "linkareer",
    "fields": [
     "브랜드·마케팅"
-   ],
-   "also": [
-    {
-     "source": "링커리어",
-     "url": "https://linkareer.com/activity/363900"
-    }
    ],
    "first_seen": "2026-11-25",
    "initial": true,
@@ -7549,8 +7543,7 @@
    "source_id": "contestkorea",
    "targets": [
     "대학생",
-    "일반인",
-    "청소년"
+    "일반인"
    ],
    "team": null,
    "start": "2026-11-16",
@@ -7594,6 +7587,43 @@
    "parser": "wevity",
    "fields": [
     "공공문제·정책제안"
+   ],
+   "first_seen": "2026-11-27",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-27",
+   "state": "open"
+  },
+  {
+   "source": "링커리어",
+   "source_id": "linkareer",
+   "targets": [
+    "대학생"
+   ],
+   "team": null,
+   "start": "2026-09-21",
+   "deadline": "2026-12-02",
+   "reward": "총 1,150만원",
+   "org": "대한건축사협회",
+   "status_hint": null,
+   "id": "linkareer-367498",
+   "title": "2026 대한건축사협회 대학(원)생 모듈러건축 공모전",
+   "url": "https://linkareer.com/activity/367498",
+   "org_type": "비영리단체/협회/재단",
+   "form": "아이디어 제안",
+   "kind": "공모전",
+   "categories": "건축/건설/인테리어",
+   "interests": "디자인/사진/예술/영상 정치/사회/법률",
+   "parser": "linkareer",
+   "fields": [
+    "문화기획",
+    "공공문제·정책제안"
+   ],
+   "also": [
+    {
+     "source": "콘테스트코리아",
+     "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202609100012"
+    }
    ],
    "first_seen": "2026-11-27",
    "initial": false,
